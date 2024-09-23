@@ -11,7 +11,7 @@ npm ou Yarn (para gerenciamento de pacotes)
 
 ## Clone o repositório
 
-git clone https://gitlab.com/luan-alves-qa/desafio-outsera-frontend.git
+git clone [https://gitlab.com/luan-alves-qa/desafio-outsera-frontend.git](https://github.com/qa-luanalves/prova-outsera.git)
 
 ## Executando os testes
 
